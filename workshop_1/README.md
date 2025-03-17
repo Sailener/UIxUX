@@ -30,7 +30,7 @@
 | формат | jpg                    | jpg                    | png                    |
 | розмір | 500x750                | 1280x719               | 718x448                |
 
-![](images\Orig\Фото.jpg) ![](images\Orig\Скриншот.jpg) ![](images\Orig\С-текстом.png)
+![](images\Orig\Photo.jpg) ![](images\Orig\Скриншот.jpg) ![](images\Orig\С-текстом.png)
 
 ### 2. Lossless формати
 
