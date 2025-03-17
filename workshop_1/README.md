@@ -2,6 +2,9 @@
 
 ## “Оптимізація зображень за допомогою [Squoosh]
 
+## Виконав:  
+**Мельцев Ростислав**  
+**Група: ІПЗ-2.03**
 ### Мета заняття
 
 1. Ознайомити студентів із методами стиснення зображень та їхнім впливом на якість.
@@ -42,7 +45,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ###  PNG
-![](images\PNG\ФотоPNG.png) ![](images\PNG\СкриншотPNG.png) ![](images\PNG\С-текстомPNG.png)
+![](images/PNG/PhotoPNG.png) ![](images/PNG/ScreenshotPNG.png) ![](images\PNG\TextPNG.png)
 
 #### 2.2 WebP (без втрат)
 |    | Фото | Скриншот | З-текстом |
@@ -52,7 +55,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### WebP (без втрат)
-![](images\WebP\Фото.webp) ![](images\WebP\Скриншот.webp) ![](images\WebP\С-текстом.webp)
+![](images/WebP/Photo.webp) ![](images/WebP/Screenshot.webp) ![](images/WebP/Text.webp)
 
 ### 3. Lossy формати
 
@@ -66,7 +69,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### MozJPEG (100%)
-![](images\MozJPEG\ФотоMozJPEG100.jpg) ![](images\MozJPEG\СкриншотMozJPEG100.jpg) ![](images\MozJPEG\С-текстомMozJPEG100.jpg)
+![](images/MozJPEG/PhotoMozJPEG100.jpg) ![](images/MozJPEG/ScreenshotMozJPEG100.jpg) ![](images/MozJPEG/TextMozJPEG100.jpg)
 
 ##### 3.1.2 MozJPEG (75%)
 |    | Фото | Скриншот | З-текстом |
@@ -76,7 +79,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### MozJPEG (75%)
-![](images\MozJPEG\ФотоMozJPeG75.jpg) ![](images\MozJPEG\СкриншотMozJPEG75.jpg) ![](images\MozJPEG\С-текстомMozJPEG75.jpg)
+![](images/MozJPEG/PhotoMozJPeG75.jpg) ![](images/MozJPEG/ScreenshotMozJPEG75.jpg) ![](images/MozJPEG/TextMozJPEG75.jpg)
 
 ##### 3.1.3 MozJPEG (50%)
 |    | Фото | Скриншот | З-текстом |
@@ -86,7 +89,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### MozJPEG (50%)
-![](images\MozJPEG\ФотоMozJPEG50.jpg) ![](images\MozJPEG\СкриншотMozJPEG50.jpg) ![](images\MozJPEG\С-текстомMozJPEG50.jpg)
+![](images/MozJPEG/PhotoMozJPEG50.jpg) ![](images/MozJPEG/ScreenshotMozJPEG50.jpg) ![](images/MozJPEG/TextMozJPEG50.jpg)
 
 #### 3.2 WebP (з втратами)
 
@@ -98,7 +101,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### WebP (100%)
-![](images\WedP(loss)\Фото100.webp) ![](images\WedP(loss)\Скриншот100.webp) ![](images\WedP(loss)\С-текстом100.webp)
+![](images/WedP(loss)/Photo100.webp) ![](images/WedP(loss)/Screenshot100.webp) ![](images/WedP(loss)/Text100.webp)
 
 ##### 3.2.2 WebP (75%)
 |    | Фото | Скриншот | З-текстом |
@@ -108,7 +111,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### WebP (75%)
-![](images\WedP(loss)\Фото75.webp) ![](images\WedP(loss)\Скриншот75.webp) ![](images\WedP(loss)\С-текстом75.webp)
+![](images/WedP(loss)/Photo75.webp) ![](images/WedP(loss)/Screenshot75.webp) ![](images/WedP(loss)/Text75.webp)
 
 ##### 3.2.3 WebP (50%)
 |    | Фото | Скриншот | З-текстом |
@@ -118,7 +121,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### WebP (50%)
-![](images\WedP(loss)\Фото50.webp) ![](images\WedP(loss)\Скриншот50.webp) ![](images\WedP(loss)\С-текстом50.webp)
+![](images/WedP(loss)/Photo50.webp) ![](images/WedP(loss)/Screenshot50.webp) ![](images/WedP(loss)/Text50.webp)
 
 #### 3.3 AVIF
 
@@ -130,7 +133,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### AVIF (100%)
-![](images\AVIF\Фото100.avif) ![](images\AVIF\Скриншот100.avif) ![](images\AVIF\С-текстом100.avif)
+![](images/AVIF/Photo100.avif) ![](images/AVIF/Screenshot100.avif) ![](images/AVIF/Text100.avif)
 
 ##### 3.3.2 AVIF (75%)
 |    | Фото | Скриншот | З-текстом |
@@ -140,7 +143,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### AVIF (75%)
-![](images\AVIF\Фото75.avif) ![](images\AVIF\Скриншот75.avif) ![](images\AVIF\С-текстом75.avif)
+![](images/AVIF/Photo75.avif) ![](images/AVIF/Screenshot75.avif) ![](images/AVIF/Text75.avif)
 
 ##### 3.3.3 AVIF (50%)
 |    | Фото | Скриншот | З-текстом |
@@ -150,7 +153,7 @@
 | розмір | 500x750                | 1280x719               | 718x448                |
 
 ### AVIF (50%)
-![](images\AVIF\Фото50.avif) ![](images\AVIF\Скриншот50.avif) ![](images\AVIF\С-текстом50.avif)
+![](images/AVIF/Photo50.avif) ![](images/AVIF/Screenshot50.avif) ![](images/AVIF/Text50.avif)
 
 ### 4. Оптимізація розміру
 
@@ -159,21 +162,21 @@
 |-----|------------------------|------------------------|------------------------|
 | вага | 2.02 МБ                | 132 кБ                 | 298 кБ                 |
 
-![](images\Retina\ФотоВеб.jpg) ![](images\Retina\СкриншотВеб.jpg) ![](images\Retina\С-текстомВеб.jpg)
+![](images/Retina/PhotoWeb.jpg) ![](images/Retina/ScreenshotWeb.jpg) ![](images/Retina/TextWeb.jpg)
 
 #### 4.2 Для мобільних
 |    | Фото | Скриншот | З-текстом |
 |-----|------------------------|------------------------|------------------------|
 | вага | 720 кБ                 | 351 кБ                 | 115 кБ                 |
 
-![](images\Retina\ФотоТелефон.jpg) ![](images\Retina\СкриншотТелефон.jpg) ![](images\Retina\С-текстомТелефон.jpg)
+![](images/Retina/PhotoMob.jpg) ![](images/Retina/ScreenshotMob.jpg) ![](images/Retina/TextMob.jpg)
 
 #### 4.3 Для Retina-дисплеїв
 |    | Фото | Скриншот | З-текстом |
 |-----|------------------------|------------------------|------------------------|
 | вага | 2.81 МБ                | 644 кБ                 | 653 кБ                 |
 
-![](images\Retina\ФотоRetina.jpg) ![](images\Retina\СкриншотRetina.jpg) ![](images\Retina\С-текстомRetina.jpg)
+![](images/Retina/PhotoRetina.jpg) ![](images/Retina/ScreenshotRetina.jpg) ![](images/Retina/TextRetina.jpg)
 
 ## Висновки
 
