@@ -20,7 +20,7 @@
     - Зменишити кути
     - Розмалювати квадрати
 3. Результати
-<img src="image/Figmalogo.png" width="200px" />
-<img src="image/Figmalogo-work.png" width="600px" /> 
+<img src="Image/Figmalogo.png" width="200px" />
+<img src="Image/Figmalogo-work.png" width="600px" /> 
 
  Посилання на проект: [workshop_2](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=55-2&t=eCwYcsPDqqiHLCx7-1)
