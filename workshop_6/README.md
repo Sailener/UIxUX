@@ -29,7 +29,7 @@
   <img src="images/logo-chrome.png" width="300px" />
   <img src="images/mobile.png" width="400px" />
 
-    Посилання на проект: [workshop_6](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=axYMhNRvdYRUoUOu-1)
+  Посилання на проект: [workshop_6](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=TIb4q5z2A1gQINP4-1)
 
 ## Використані матеріали:
 Іконки взяти готові з https://fonts.google.com/icons  
