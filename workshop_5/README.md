@@ -23,12 +23,12 @@
     - Підготовка матеріалів:
         - Вивчення роботи Boolean у Figma
         - Практика з boolean  
-            <img src="images/Task.png" width="400px" />
+            <img src="Images/Task.png" width="400px" />
     - Створення значків:
         - Використання базових фігур та булевих груп
         - Використання комбінацій булевих груп
         - Вирівнювання елементів у межах фрейму 24×24 px
 3. Результати  
-    <img src="images/Icons.png"/>
+    <img src="Images/Icons.png"/>
 
     Посилання на проект: [workshop_5](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=TIb4q5z2A1gQINP4-1)
