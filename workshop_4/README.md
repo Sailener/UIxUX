@@ -29,6 +29,6 @@
         - Вирівнювання елементів у межах 24×24 px
         - Використання border-style
 3. Результати  
-    <img src="images/Icons.jpg"/>![alt text](image.png)
+    <img src="images/Icons.jpg"/>
 
     Посилання на проект: [workshop_4](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=TIb4q5z2A1gQINP4-1)
