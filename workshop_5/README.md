@@ -30,4 +30,4 @@
 3. Результати  
     <img src="Images/Icons.png"/>
 
-    Посилання на проект: [workshop_5](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=TIb4q5z2A1gQINP4-1)
+    Посилання на проект: [workshop_5](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-61&t=ziQL0nOA4rb7i3qb-1)
