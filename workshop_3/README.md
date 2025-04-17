@@ -24,7 +24,7 @@
 3. Результати
      <img src="images/Maket.jpg" width="300px" /> 
 
-    Посилання на проект: [workshop_3](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=RKlKTCW77yMeXaik-1)
+    Посилання на проект: [workshop_3](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-9&t=ziQL0nOA4rb7i3qb-1)
 
 ## Користні матеріали:
 **Плагіни Figma:**   
