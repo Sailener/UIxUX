@@ -27,4 +27,4 @@
     <img src="images/image2.png"/>
     <img src="images/image3.png"/>
 
-    Посилання на проект: [workshop_7](https://www.figma.com/design/0AJa4x3C8MY1dDswO5pEeT/Untitled?node-id=0-1&t=axYMhNRvdYRUoUOu-1)
+    Посилання на проект: [workshop_7](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-144&t=ziQL0nOA4rb7i3qb-1)
