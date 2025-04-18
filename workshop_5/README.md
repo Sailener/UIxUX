@@ -11,23 +11,7 @@
 4. Написати звіт
 
 ---
+## Результати:  
+<img src="Images/Icons.png"/>
 
-## Хід роботи:
-1. Аналіз
-    - Практикум з boolean: union, subtract, intersect, exclude
-    - Референс будь-яких двох значків у solid-стилі
-    - Усі значки складаються з базових геометричних фігур
-    - Розмір іконок 24×24 px
-2. Розробка
-    - Підготовка матеріалів:
-        - Вивчення роботи Boolean у Figma
-        - Практика з boolean  
-            <img src="Images/Task.png" width="400px" />
-    - Створення значків:
-        - Використання базових фігур та булевих груп
-        - Використання комбінацій булевих груп
-        - Вирівнювання елементів у межах фрейму 24×24 px
-3. Результати  
-    <img src="Images/Icons.png"/>
-
-    Посилання на проект: [workshop_5](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-61&t=ziQL0nOA4rb7i3qb-1)
+Посилання на проект: [workshop_5](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-61&t=ziQL0nOA4rb7i3qb-1)
