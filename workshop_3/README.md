@@ -10,21 +10,10 @@
 3. Написати звіт
 
 ---
+## Результати
+<img src="images/Maket.jpg" width="300px" /> 
 
-## Хід роботи:
-1. Аналіз
-    - Основа меню - закруглений квадрат
-    - Меню складаєтся з 4 елементів
-    - Підменю складається з іконок та тексту
-    
-2. Розробка
-    - Підготовка матеріалів
-    - Додавання тіні до основи
-    - Розташування іконок та тексту відповідно до референсу
-3. Результати
-     <img src="images/Maket.jpg" width="300px" /> 
-
-    Посилання на проект: [workshop_3](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-9&t=ziQL0nOA4rb7i3qb-1)
+Посилання на проект: [workshop_3](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-9&t=ziQL0nOA4rb7i3qb-1)
 
 ## Користні матеріали:
 **Плагіни Figma:**   
