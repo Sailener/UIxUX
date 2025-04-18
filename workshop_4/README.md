@@ -12,22 +12,7 @@
 
 ---
 
-## Хід роботи:
-1. Аналіз
-    - Іконки мають прості геометричні форми з чіткими лініямиі
-    - Розмір іконок стандартний – 24×24 px
-    - Усі іконки складаються з базових геометричних фігур та кривих Безьє
-2. Розробка
-    - Підготовка матеріалів:
-        - Вивчення роботи Pen Tool у Figma
-        - Проходження The Bezier Game для практики  
-            <img src="images/Game.png" width="200px" />
-    - Створення іконок:
-        - Використання Pen Tool та базових фігур
-        - Робота з кривими Безьє для плавних ліній
-        - Вирівнювання елементів у межах 24×24 px
-        - Використання border-style
-3. Результати  
-    <img src="images/Icons.jpg"/>
+## Результати:  
+<img src="images/Icons.jpg"/>
 
-    Посилання на проект: [workshop_4](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-30&t=ziQL0nOA4rb7i3qb-1)
+Посилання на проект: [workshop_4](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=1-30&t=ziQL0nOA4rb7i3qb-1)
