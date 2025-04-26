@@ -14,4 +14,4 @@
 <img src="images/task.png" width="300px" />
 
 
-Посилання на проект: [workshop_9](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=11-2&t=5G9GfDn9sORfuU3v-1)
+Посилання на проект: [workshop_10](https://www.figma.com/design/138qA0cYf1BYJHqAdRjfFp/Untitled?node-id=11-2&t=5G9GfDn9sORfuU3v-1)
